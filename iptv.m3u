@@ -36,7 +36,7 @@ http://192.168.5.1:4022/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17[高清]
 http://192.168.5.1:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="CCTV4K",CCTV-4K[4K]
-http://110.242.20.87/livews-4k.5club.cctv.cn/live/4K0205.stream/playlist.m3u8
+http://110.242.20.88/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN",CGTN
 http://192.168.5.1:4022/rtp/239.3.1.16:8056
 #EXTINF:-1 tvg-name="CGTN",CGTN记录[高清非官方]
